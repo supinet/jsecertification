@@ -18,7 +18,6 @@ public class Test {
         //it's not allowed to have the same variable name
         //int a = 0;
         //int a = 10;
-
     }
 
     public Test() {
